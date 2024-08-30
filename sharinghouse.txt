@@ -2,3 +2,5 @@
 bed
 almira
 wifi
+Parking
+front garden
